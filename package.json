@@ -1,0 +1,30 @@
+{
+  "name": "tailrunner",
+  "version": "1.0.0",
+  "description": "Dog walking app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leon-JulianHoneycutt/TailRunner.git"
+  },
+  "keywords": [
+    "Best",
+    "dog",
+    "walking",
+    "app",
+    "ever"
+  ],
+  "author": "Leon Honeycutt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leon-JulianHoneycutt/TailRunner/issues"
+  },
+  "homepage": "https://github.com/Leon-JulianHoneycutt/TailRunner#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
